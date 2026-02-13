@@ -14,11 +14,11 @@
 <hr>
 
 <!-- content -->
-<p align="left">I thrive on tackling complex technical challenges and crafting scalable solutions using Node JS or PHP.  I'm always eager to learn and grow, especially in the ever-evolving world of web development.</p>
+<p align="left">I thrive on tackling complex technical challenges and crafting scalable solutions using Node JS or GO  I'm always eager to learn and grow, especially in the ever-evolving world of web development.</p>
 
-- 🌱 I’m currently Working on Web Dev(Next JS & Nest JS)
+- 🌱 I’m currently Working on Web Dev(GO + React)
 - 🤝 I’m available for freelancing.
-- 🌱 I’m currently learning PHP & React Native
+- 🌱 I’m currently learning Go and Flutter
 - 📫 How to reach me **rifkimuhamad0987@gmail.com**
 
 <br>
