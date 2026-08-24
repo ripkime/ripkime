@@ -1,5 +1,5 @@
 <!-- introduction -->
-<h3 align="center">👋 Salam! I'm Muhamad Rifki Saputra, a Full-Stack Developer from Jakarta, Indonesia 🇮🇩</h3>
+<h3 align="center">👋 Salam! I'm Muhamad Rifki Saputra, a Backend Developer from Jakarta, Indonesia 🇮🇩</h3>
 <hr>
 
 <!-- content -->
